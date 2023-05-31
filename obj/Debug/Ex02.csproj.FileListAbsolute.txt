@@ -1,0 +1,10 @@
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 2 סופי\חדש\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\EX02\obj\Debug\Ex02.csproj.AssemblyReference.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 2 סופי\חדש\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\EX02\obj\Debug\Ex02.csproj.SuggestedBindingRedirects.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 2 סופי\חדש\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\EX02\obj\Debug\Ex02.csproj.CoreCompileInputs.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 2 סופי\חדש\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\EX02\bin\Debug\EX02.exe.config
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 2 סופי\חדש\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\EX02\bin\Debug\EX02.exe
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 2 סופי\חדש\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\EX02\bin\Debug\EX02.pdb
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 2 סופי\חדש\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\EX02\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 2 סופי\חדש\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\EX02\obj\Debug\Ex02.csproj.CopyComplete
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 2 סופי\חדש\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\EX02\obj\Debug\EX02.exe
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 2 סופי\חדש\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\B23 Ex02 AmitCohen 316108224 AvivGalily 316431774\EX02\obj\Debug\EX02.pdb
